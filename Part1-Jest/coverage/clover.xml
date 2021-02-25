@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614280343460" clover="3.2.0">
-  <project timestamp="1614280343460" name="All files">
+<coverage generated="1614289750549" clover="3.2.0">
+  <project timestamp="1614289750549" name="All files">
     <metrics statements="46" coveredstatements="12" conditionals="10" coveredconditionals="6" methods="9" coveredmethods="2" elements="65" coveredelements="20" complexity="0" loc="46" ncloc="46" packages="1" files="2" classes="2"/>
     <file name="main.js" path="C:\Users\chad0\Documents\UCSD\CSE 110\Lab8\Part1-Jest\assets\scripts\main.js">
       <metrics statements="44" coveredstatements="10" conditionals="10" coveredconditionals="6" methods="8" coveredmethods="1"/>

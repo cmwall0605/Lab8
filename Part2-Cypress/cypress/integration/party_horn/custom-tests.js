@@ -21,7 +21,7 @@ describe('Party Horn Tests', () => {
     }); 
   });
 
-  it('Input changes when volume slider changes', () => {
+  it('Volume changes when volume slider changes', () => {
     cy.get('#volume-slider').invoke('val', 33).trigger('input');
     cy.get('audio').then(($el) => {
       expect($el).to.have.prop('volume', 0.33);
